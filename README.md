@@ -8,12 +8,10 @@ Welcome to my homepage. Thanks for stopping by - I am happy to share my learning
 
 I am a Software Technology student from China, passionate about building practical software and growing as a full-stack developer.
 
-- 🤖 Focused on AI-driven development, using tools like Cursor and Kiro to accelerate coding, refactoring, debugging, and documentation
-- ⚡ Build faster with a human + AI workflow: idea decomposition, prompt-based implementation, quick validation, and iterative optimization
-- 🌱 Continuously improving software engineering fundamentals, architecture thinking, and delivery quality
-- 🛠 Enjoy turning ideas into maintainable products with clear structure and practical value
-- 📚 Interested in modern web engineering, backend systems, and developer productivity
-- 🤝 Open to collaboration, learning, and interesting tech discussions
+- 🤖 Experienced in AI-driven development and using AI tools to speed up coding, debugging, and product iteration
+- 🌱 Continuously improving my engineering fundamentals, architecture thinking, and project delivery skills
+- 🛠 Enjoy turning ideas into real applications with clean, maintainable code
+- 📫 Open to collaboration, learning, and interesting tech discussions
 - 🌐 Blog: [supermortal.cn](https://supermortal.cn)
 - ✉️ Email: [supermortal@163.com](mailto:supermortal@163.com)
 
