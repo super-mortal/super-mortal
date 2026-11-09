@@ -11,6 +11,9 @@ on:
 
 jobs:
   generate:
+    # 这一行必须保留。2023-02-02 之后新建的仓库，GITHUB_TOKEN 默认是只读的，
+    # 只有 workflow 里显式声明 permissions 才能覆盖默认值。
+    # 删掉它的后果：Actions 仍然显示绿勾，但推 output 分支那一步会失败，蛇图变成 404。
     permissions:
       contents: write
     runs-on: ubuntu-latest
